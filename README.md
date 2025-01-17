@@ -32,16 +32,12 @@ git clone https://github.com/LucasrFig/Atividade-1_Controle-de-pinos-GPIO-utiliz
 
 Compile o Código:
 
-Utilize o ambiente de desenvolvimento da Raspberry Pi Pico para compilar:
-mkdir build
-cd build
-cmake ..
-make
+Utilize o ambiente de desenvolvimento VS Code. 
+Instar extensão: Raspberry Pi Pico.
+
 
 
 Carregue na Raspberry Pi Pico:
-
 Conecte a Raspberry Pi Pico em modo de boot.
-
 Copie o arquivo .uf2 gerado para a unidade de armazenamento da Pico.
 
