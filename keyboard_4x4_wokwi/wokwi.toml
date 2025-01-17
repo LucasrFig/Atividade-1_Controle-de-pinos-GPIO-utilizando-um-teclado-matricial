@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/keyboard_4x4_wokwi.uf2"
+elf = "build/keyboard_4x4_wokwi.elf"
