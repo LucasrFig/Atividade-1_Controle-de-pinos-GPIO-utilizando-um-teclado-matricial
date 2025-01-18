@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/Proj_teclado.hex"
+elf = "build/Proj_teclado.elf"
