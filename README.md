@@ -2,6 +2,7 @@
 # PROJETO - CONTROLE DE PINOS GPIO UTILIZANDO UM TECLADO MATRICIAL  
 (SUB GRUPO 6 - ATIVIDADE 1)  
 **Equipe do Projeto:** 
+
 ──────────────────────────────────────────────────────────────────────
 
 - João Murillo Brito Taveira  
@@ -69,6 +70,7 @@ O programa segue a seguinte estrutura de funcionamento:
 - **Carregue na Raspberry Pi Pico:**
   Conecte a Raspberry Pi Pico em modo de boot.
   Copie o arquivo .uf2 gerado para a unidade de armazenamento da Pico.
+  
 ──────────────────────────────────────────────────────────────────────  
 ## CONCLUSÃO  
 ──────────────────────────────────────────────────────────────────────  
