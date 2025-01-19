@@ -55,6 +55,7 @@ O programa segue a seguinte estrutura de funcionamento:
 - Biblioteca: pico/stdlib.h
 - Simulação: Wokwi
 
+
 ──────────────────────────────────────────────────────────────────────  
 ## COMO EXECUTAR O PROJETO
 ──────────────────────────────────────────────────────────────────────  
