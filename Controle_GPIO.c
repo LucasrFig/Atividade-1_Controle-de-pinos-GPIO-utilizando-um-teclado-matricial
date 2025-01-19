@@ -19,7 +19,7 @@
 #define COL2 3   // C2 -> GP3
 #define COL3 2   // C3 -> GP2
 #define COL4 0  // C4 --> GP0
-
+////
 
 // Mapeamento das teclas do teclado 4x4
 const char keymap[4][4] = {
