@@ -82,3 +82,8 @@ Neste projeto, aprendemos a realizar o controle de pinos GPIO utilizando um tecl
 UTILIZANDO UM TECLADO MATRICIAL  
 *Subgrupo 6 - Atividade 1*  
 ──────────────────────────────────────────────────────────────────────
+
+──────────────────────────────────────────────────────────────────────  
+## VÍDEO DO PROJETO  
+────────────────────────────────────────────────────────────────────── 
+https://ifbaedubr-my.sharepoint.com/:v:/g/personal/2017209029_ifba_edu_br/EZkUsurfAjpMuCpMgnXF9y4BapWd1PsKheHkiyMgeS4mEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1HTTYm
